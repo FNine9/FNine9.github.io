@@ -12,6 +12,8 @@
 
 ## Class Diagram
 
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/class_d.png)
+
 ## Usecase Diagram
 
 ## Лабораторная 2
