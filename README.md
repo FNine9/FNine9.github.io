@@ -12,7 +12,7 @@
 
 ## Class Diagram
 
-![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/class_d.png)
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/class_d.png?raw=true)
 
 ## Usecase Diagram
 
