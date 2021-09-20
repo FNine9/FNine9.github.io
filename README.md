@@ -3,7 +3,7 @@
 
 ## Лабораторная 1
 
-https://github.com/FNine9/FNine9.github.io/blob/main/lr1/model_1.png
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/model_1.png)
 
 Текст с постановкой задачи
 
