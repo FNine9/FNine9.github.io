@@ -16,6 +16,8 @@
 
 ## Usecase Diagram
 
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/USECASE_D.png)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
