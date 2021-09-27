@@ -1,6 +1,6 @@
 # [Деловая игра](https://github.com/FNine9/FNine9.github.io/wiki/Деловая-игра)
-# Отчет о лабораторных работах
-# студент группы [ИДБ-18-06](https://github.com/stankin/design-2018/wiki/) Светличный Е.Ю.
+# <div style="text-align:center">Отчеты о лабораторных работах</div>
+# Студент группы [ИДБ-18-06](https://github.com/stankin/design-2018/wiki/) Светличный Е.Ю.
 
 ## Лабораторная 1
 
