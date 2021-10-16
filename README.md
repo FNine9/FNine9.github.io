@@ -19,8 +19,26 @@
 
 ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr1/USECASE_D.png?raw=true)
 
-## Лабораторная 2
+## <h2 align="center">Лабораторная 2
 
+## IDEF0
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/01_A0.png?raw=true)
+На диаграмме изображен процесс деятельности грузовой компании.
+
+## Средний уровень
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/02_A0.png?raw=true)
+  A1. Владелец компании получается оценки по заказам, корректирует их и передает диспетчеру, диспетчер берет новый заказ и передает его водителю при помощи системы управления заказами.<br>
+  А2. Водитель получив новый заказ при помощи различных ресурсов заводит автомобиль и направляется выполнять заказ.<br>
+  А3. Водитель осуществляет перевозку по заданному заказу.<br>
+  А4. Клиент получает свой груз, осавляет оценку и подтверждает получение заказа.<br>
+  
+## DFD-диаграмма (Блок: Управлять)
+![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/03_A1.png?raw=true)
+  
+  Владелец берет новый закза из БД, вносит в него корректировки в соответсвии с оценками клиентов и передает заказ на оформление диспетчеру при помощи системы управления заказами.<br>
+  Диспетчер проводит оформление конкретного заказа при помощи системы управления заказми и передает заказ на исполнение. 
+## Usecase Diagram
+  ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/fL4_IyD059zxd-AHIOU27q2agNCWc_EHd6recfFB1GShs2gTX82JgpYu1h4qL5E_mhjlv0_JQlOEZtly_lpklRj1RgMnnJGL-IJ9hgIHKvAHrOPkH6yeeyd8w2ABptKAw6ASM2LwlZ7wkaM6AIGGQXChquLkEtb5hYAPguCJKtLfoMeooMXiAKwCYcoYCz7E6vwGpCdZDrxn9s_v7UV6sv.png?raw=true)
 ## Лабораторная 3
 
 ## Лабораторная 4
