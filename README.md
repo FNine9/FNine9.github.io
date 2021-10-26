@@ -40,10 +40,17 @@
 ## Usecase Diagram
   ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/fL4_IyD059zxd-AHIOU27q2agNCWc_EHd6recfFB1GShs2gTX82JgpYu1h4qL5E_mhjlv0_JQlOEZtly_lpklRj1RgMnnJGL-IJ9hgIHKvAHrOPkH6yeeyd8w2ABptKAw6ASM2LwlZ7wkaM6AIGGQXChquLkEtb5hYAPguCJKtLfoMeooMXiAKwCYcoYCz7E6vwGpCdZDrxn9s_v7UV6sv.png?raw=true)
 ## <h2 align="center">Лабораторная 3
+  
 ## DFD-диаграмма (Блок: Управлять)
+  
 ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr3/model.png?raw=true)
   Владелец берет новый закза из БД, вносит в него корректировки в соответсвии с оценками клиентов и передает заказ на оформление диспетчеру при помощи системы управления заказами.<br>
   Диспетчер проводит оформление конкретного заказа при помощи системы управления заказми и передает заказ на исполнение. 
+  
+## Диаграмма последовательности (DS)
+  ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr3/posl_d.png?raw=true)
+  
+  Владелец отправляет запрос на поиск нового заказа и оценок. После получения он редактиурет существующий заказ в соответсвии с оценками клиентов и загружает в систему управления заказми. Диспетчер получает заказ для оформления в системе управления заказами, проводит оформление и полученный готовый заказ передает на исполнение.
 ## Лабораторная 4
 
 ## Лабораторная 5
