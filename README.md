@@ -38,7 +38,7 @@
   Владелец берет новый закза из БД, вносит в него корректировки в соответсвии с оценками клиентов и передает заказ на оформление диспетчеру при помощи системы управления заказами.<br>
   Диспетчер проводит оформление конкретного заказа при помощи системы управления заказми и передает заказ на исполнение. 
 ## Usecase Diagram
-  ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr2/fL4_IyD059zxd-AHIOU27q2agNCWc_EHd6recfFB1GShs2gTX82JgpYu1h4qL5E_mhjlv0_JQlOEZtly_lpklRj1RgMnnJGL-IJ9hgIHKvAHrOPkH6yeeyd8w2ABptKAw6ASM2LwlZ7wkaM6AIGGQXChquLkEtb5hYAPguCJKtLfoMeooMXiAKwCYcoYCz7E6vwGpCdZDrxn9s_v7UV6sv.png?raw=true)
+  ![none](https://github.com/FNine9/FNine9.github.io/blob/main/lr3/model.png?raw=true)
 ## Лабораторная 3
 
 ## Лабораторная 4
