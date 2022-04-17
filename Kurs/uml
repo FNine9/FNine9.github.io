@@ -1,0 +1,35 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Пользователь_системы"
+actor "Методист"
+actor "Модуль_интерфейса" 
+actor "Программный_модуль" 
+
+Модуль_интерфейса --> Программный_модуль
+
+rectangle Приложение {
+
+usecase case1 as "Получить статистику по мотивационной программе"
+usecase case2 as "Подсчитать мотивационные баллы"
+usecase case5 as "Составить статистику"
+usecase case3 as "Получить первичные данные"
+usecase case4 as "Обработать первичные данные"
+ Пользователь_системы <-- Методист
+ Методист -- case1
+ (case1) .> (case2)
+ (case2) .> (case5)  
+ (case4) .> (case5) 
+ (case3) .> (case4)
+ case1 -- Модуль_интерфейса 
+ case2 -- Модуль_интерфейса
+ case3 -- Модуль_интерфейса
+ case4 -- Модуль_интерфейса 
+ case5 -- Модуль_интерфейса 
+}
+
+@enduml
